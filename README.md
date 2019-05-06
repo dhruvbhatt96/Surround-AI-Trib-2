@@ -8,5 +8,6 @@ We can use it with existing intelligent api like Google cloud services, AWS Reko
 
 ### Components of Surround: -
  
+![flow-diagram](https://user-images.githubusercontent.com/41299402/57239593-a7c69180-706f-11e9-8371-c97bfa688cd4.png)
 
 
